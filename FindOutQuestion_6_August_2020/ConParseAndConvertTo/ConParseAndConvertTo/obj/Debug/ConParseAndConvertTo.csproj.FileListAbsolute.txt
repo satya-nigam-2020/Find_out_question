@@ -1,0 +1,7 @@
+F:\Zensar_satya_prakash\Find_out_questions(All_days)\ConParseAndConvertTo\ConParseAndConvertTo\bin\Debug\ConParseAndConvertTo.exe.config
+F:\Zensar_satya_prakash\Find_out_questions(All_days)\ConParseAndConvertTo\ConParseAndConvertTo\bin\Debug\ConParseAndConvertTo.exe
+F:\Zensar_satya_prakash\Find_out_questions(All_days)\ConParseAndConvertTo\ConParseAndConvertTo\bin\Debug\ConParseAndConvertTo.pdb
+F:\Zensar_satya_prakash\Find_out_questions(All_days)\ConParseAndConvertTo\ConParseAndConvertTo\obj\Debug\ConParseAndConvertTo.csprojAssemblyReference.cache
+F:\Zensar_satya_prakash\Find_out_questions(All_days)\ConParseAndConvertTo\ConParseAndConvertTo\obj\Debug\ConParseAndConvertTo.csproj.CoreCompileInputs.cache
+F:\Zensar_satya_prakash\Find_out_questions(All_days)\ConParseAndConvertTo\ConParseAndConvertTo\obj\Debug\ConParseAndConvertTo.exe
+F:\Zensar_satya_prakash\Find_out_questions(All_days)\ConParseAndConvertTo\ConParseAndConvertTo\obj\Debug\ConParseAndConvertTo.pdb
