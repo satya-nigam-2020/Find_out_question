@@ -1,0 +1,7 @@
+F:\DotNetCosole\ConsRefAndOutConcept\ConsRefAndOutConcept\bin\Debug\ConsRefAndOutConcept.exe.config
+F:\DotNetCosole\ConsRefAndOutConcept\ConsRefAndOutConcept\bin\Debug\ConsRefAndOutConcept.exe
+F:\DotNetCosole\ConsRefAndOutConcept\ConsRefAndOutConcept\bin\Debug\ConsRefAndOutConcept.pdb
+F:\DotNetCosole\ConsRefAndOutConcept\ConsRefAndOutConcept\obj\Debug\ConsRefAndOutConcept.csprojAssemblyReference.cache
+F:\DotNetCosole\ConsRefAndOutConcept\ConsRefAndOutConcept\obj\Debug\ConsRefAndOutConcept.csproj.CoreCompileInputs.cache
+F:\DotNetCosole\ConsRefAndOutConcept\ConsRefAndOutConcept\obj\Debug\ConsRefAndOutConcept.exe
+F:\DotNetCosole\ConsRefAndOutConcept\ConsRefAndOutConcept\obj\Debug\ConsRefAndOutConcept.pdb
